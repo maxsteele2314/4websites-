@@ -1,0 +1,39 @@
+<html>
+<body>
+
+<h2>Basic HTML Table</h2>
+
+<table style>
+  <tr>
+    <th>Tree Name</th>
+    <th>Color</th> 
+    <th>Leaf Size</th>
+    <th>Trunk Size</th>
+  </tr>
+  <tr>
+    <td>Black Cherry</td>
+    <td>Black Ash</td>
+    <td>White Ash</td>
+    <td>American Elm</td>
+    <td>Butternut</td>  </tr>
+  <tr>
+    <td>Green</td>
+    <td>Green</td>
+    <td>Light Green</td>
+    <td>dark Brown</td>
+   <td>Yellow</td>  </tr>
+<tr>
+    <td>small</td>
+    <td>large</td>
+    <td>small</td>
+    <td>mixed</td>
+   <td>small</td>  </tr>
+   <tr>
+    <td>Thick</td>
+    <td>Thick</td>
+    <td>Thin</td>
+    <td>thin</td>
+   <td>Thick</td>  </tr></table>
+
+</body>
+</html>
